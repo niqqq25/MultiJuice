@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ServerPlayer
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ClientPlayer
+  - ServerPlayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3504612995
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: ServerPlayer
+    uniqueID: 721734967
+    locked: 0
+  - name: ClientPlayer
+    uniqueID: 1981420755
+    locked: 0
+  - name: LocalPlayer
+    uniqueID: 2967575613
+    locked: 0
+  - name: Best
+    uniqueID: 2184198931
+    locked: 0
